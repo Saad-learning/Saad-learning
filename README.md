@@ -77,9 +77,9 @@ I’m passionate about understanding what drives customer behavior and helping b
 ##  GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saad-learning&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="150" alt="Saad Attia's GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=Saad-learning&theme=dark&hide_border=true" height="150" alt="Saad Attia's GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saad-learning&layout=compact&langs_count=6&theme=dark&hide_border=true" height="150" alt="Saad Attia's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saad-learning&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saad-learning&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
-![Snake animation](https://github.com/Saad-learning/Saad-Attia/blob/output/snake-dark.svg)
+![Snake animation](https://github.com/Saad-learning/Saad-learning/blob/output/snake-dark.svg)
+
