@@ -24,13 +24,15 @@
 
 <div align="left">
   
-  I’m a Junior Data & Business Intelligence Analyst passionate about **Data Science,
-  Machine Learning, and Artificial Intelligence**,
-  loves transforming messy data into meaningful business insights.
-  I specialize in building end-to-end analytics solutions — 
-  from cleaning and modeling raw datasets to visualizing 
-  results through interactive dashboards that drive strategic decisions,
-  I enjoy unlocking the power of data to deliver meaningful insights.  
+  I’m a Data & Business Intelligence Analyst specializing in Retail Sales Analytics — where data meets business performance.
+
+I help companies transform raw sales, customer, and product data into actionable insights that drive revenue, optimize pricing, and improve profitability.
+
+My work combines deep analytical skills in SQL, Python (Pandas), Excel, and Power BI with a strong understanding of sales KPIs, customer segmentation, and forecasting.
+
+Over the past year, I’ve built full end-to-end analytics projects across Retail, Healthcare, and Financial industries, developing dashboards and predictive models that turn data into clear business impact.
+
+I’m passionate about understanding what drives customer behavior and helping businesses make smarter, faster, and more data-informed decisions.  
   
   
   -  **Currently working on:** Data analytics Dashboards & Delivering Insight-Driven reports 
