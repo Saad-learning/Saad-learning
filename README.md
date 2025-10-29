@@ -76,6 +76,10 @@ I’m passionate about understanding what drives customer behavior and helping b
 
 ##  GitHub Stats
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Saad-learning&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="Saad Attia's GitHub stats" /> <img src="https://streak-stats.demolab.com?user=Saad-learning&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="Saad Attia's GitHub streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saad-learning&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="Saad Attia's top languages" /> </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saad-learning&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="150" alt="Saad Attia's GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=Saad-learning&theme=dark&hide_border=true" height="150" alt="Saad Attia's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saad-learning&layout=compact&langs_count=6&theme=dark&hide_border=true" height="150" alt="Saad Attia's top languages" />
+</div>
 
 ![Snake animation](https://github.com/Saad-learning/Saad-Attia/blob/output/snake-dark.svg)
