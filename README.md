@@ -51,6 +51,10 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
 
 ### Programming & Data Languages
 <div align="left"> 
+  <!-- SQL -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="40" alt="sql logo" />
+<img width="12" />
+
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /> 
   <img width="12" />   <!-- Pandas -->  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" /> 
@@ -61,8 +65,6 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
   <img width="12" />   <!-- dplyr -->  <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/dplyr.png" height="40" alt="dplyr logo" /> 
   <img width="12" />   <!-- tidyr -->  <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/tidyr.png" height="40" alt="tidyr logo" /> 
 </div>
----
-
 
 ### Retail Data Analytics & Visualization
 <div align="left"> 
@@ -86,16 +88,14 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="tableau logo" /> 
   <img width="12" /> 
 
-  <!-- Jupyter -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" /> 
+
 </div>
 
 
 
 ### Databases & Tools
-<div align="left"> <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sql server logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" /> 
-</div> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /> 
-  <img width="12" /> <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="40" alt="excel logo" />
+<div align="left"> <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sql server logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />  <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" /> <img width="12" /> <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="40" alt="excel logo" />
+
 </div>
 
 Learning & Expanding
