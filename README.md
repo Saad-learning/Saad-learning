@@ -111,7 +111,7 @@ Learning & Expanding
 
 <div align="left">
 
- <b>Google Data Analytics Specialization</b> — Coursera  
+ <b>Google Data Analytics </b> — Coursera  
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/5LRBDKHO7TCS" target="_blank">
 <img src="https://img.shields.io/badge/View%20Certificate-4285F4?style=flat&logo=coursera&logoColor=white" height="25" />
 </a>
