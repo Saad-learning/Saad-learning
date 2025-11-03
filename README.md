@@ -18,7 +18,7 @@
 
 ###
 
-<img align="center" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif"/>
+<img align="center" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif"/>
 
 ###
 
