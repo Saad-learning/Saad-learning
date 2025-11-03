@@ -8,9 +8,15 @@
 
 </div>
 
+
 ---
 
-<div align="left">
+<!-- GIF AT THE TOP -->
+<div align="center">
+  <img height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data analyst gif"/>
+</div>
+
+---
 
 ##  About Me  
 
@@ -18,14 +24,10 @@
 
 ###
 
-<img align="center" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif"/>
-
-###
-
-<div align="left">
+<div align="center">
   
 
-I’m a Data & Business Intelligence Analyst specializing in Retail Sales Analytics — where data turns into strategy and every number tells a customer story.
+I’m a Data & Business Intelligence Analyst specializing in Retail Sales Analytics, where data turns into strategy and every number tells a customer story.
 
 I help retail and consumer-focused businesses turn sales, customer, and product data into insights that drive growth, improve margins, and enhance retention.
 
