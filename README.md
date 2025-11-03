@@ -51,25 +51,15 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
 <div align="left"> 
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /> 
-  <img width="12" /> 
-
-  <!-- Pandas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" /> 
-  <img width="12" /> 
-
-  <!-- NumPy -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" /> 
-  <img width="12" /> 
-
-  <!-- Matplotlib -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo" /> 
-  <img width="12" /> 
-  
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="seaborn logo" />
-
-
-
+  <img width="12" />   <!-- Pandas -->  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" /> 
+  <img width="12" />   <!-- NumPy -->  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" /> 
+  <img width="12" />   <!-- Matplotlib -->  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo" /> 
+  <img width="12" />   <!-- Seaborn -->  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="seaborn logo" /> 
+  <img width="12" />   <!-- R -->  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r language logo" /> 
+  <img width="12" />   <!-- dplyr -->  <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/dplyr.png" height="40" alt="dplyr logo" /> 
+  <img width="12" />   <!-- tidyr -->  <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/tidyr.png" height="40" alt="tidyr logo" /> 
 </div>
+---
 
 
 ### Retail Data Analytics & Visualization
