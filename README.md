@@ -18,7 +18,8 @@
 
 ---
 
-##  About Me  
+<h2 align="center">About ME</h2>
+ 
 
 </div>
 
@@ -47,7 +48,8 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
 
 ---
 
-##  Tech Stack
+<h2 align="center">Tech Stack</h2>
+
 
 ### Programming & Data Languages
 <div align="left"> 
@@ -88,17 +90,19 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="tableau logo" /> 
   <img width="12" /> 
 
-
 </div>
 
 
 
 ### Databases & Tools
-<div align="left"> <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sql server logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />  <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" /> <img width="12" /> <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="40" alt="excel logo" />
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sql server logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />  <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" /> <img width="12" />
+   <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="40" alt="google bigquery logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" /> <img width="12" /> <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="40" alt="excel logo" />
+
+
 
 </div>
 
-Learning & Expanding
+### Learning & Expanding Tools
 <div align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="salesforce logo" /> 
   <img width="12" /> 
@@ -107,7 +111,117 @@ Learning & Expanding
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-analytics.svg" height="40" alt="google analytics 4 logo" /> 
 </div>
 
-##  Certifications
+---
+<h2 align="center">Retail Sales Analytics Skills</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Cleaning-Excel%2C%20Python%2C%20SQL-blue" height="25" />
+  <img src="https://img.shields.io/badge/Visualization-Power%20BI%2C%20Tableau-yellow" height="25" />
+  <img src="https://img.shields.io/badge/Forecasting-ARIMA%2C%20Prophet-orange" height="25" />
+  <img src="https://img.shields.io/badge/Segmentation-RFM%2C%20CLV-green" height="25" />
+</p>
+
+
+<div align="left">
+
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Project Focus</th>
+    <th>Core Skill Demonstrated</th>
+    <th>Example Deliverables</th>
+  </tr>
+
+  <tr>
+    <td><b>1</b></td>
+    <td><b>Retail Data Cleaning & Quality Assurance</b></td>
+    <td>Data Cleaning (Excel, Python, SQL)</td>
+    <td>Clean messy retail data, handle missing values, validate prices, SKU codes, and dates. Create QA log table in SQL.</td>
+  </tr>
+
+  <tr>
+    <td><b>2</b></td>
+    <td><b>Retail Sales Performance Analysis</b></td>
+    <td>Descriptive Analytics</td>
+    <td>Analyze total sales, profit, cost, and margin by product, category, and region. KPIs: Total Sales, Profit %, AOV.</td>
+  </tr>
+
+  <tr>
+    <td><b>3</b></td>
+    <td><b>Customer Segmentation & Behavior Analysis</b></td>
+    <td>Customer Analytics</td>
+    <td>Segment customers by frequency, recency, and monetary value (RFM). Identify top-value customers.</td>
+  </tr>
+
+  <tr>
+    <td><b>4</b></td>
+    <td><b>Product Performance & Inventory Optimization</b></td>
+    <td>Product Analytics</td>
+    <td>Identify top/bottom-performing products, seasonal trends, and inventory turnover. Recommend stock adjustments.</td>
+  </tr>
+
+  <tr>
+    <td><b>5</b></td>
+    <td><b>Marketing Campaign Analysis</b></td>
+    <td>Marketing Analytics</td>
+    <td>Evaluate promotion performance, discount impact on profit, and ROI per campaign.</td>
+  </tr>
+
+  <tr>
+    <td><b>6</b></td>
+    <td><b>Store/Regional Performance Dashboard</b></td>
+    <td>Power BI / Tableau Visualization</td>
+    <td>Build a regional sales & profit dashboard with KPIs, filters, and interactive visuals.</td>
+  </tr>
+
+  <tr>
+    <td><b>7</b></td>
+    <td><b>Sales Forecasting & Trend Analysis</b></td>
+    <td>Predictive Analytics (Python, SQL)</td>
+    <td>Forecast future sales using time-series models (ARIMA, Prophet). Identify growth trends.</td>
+  </tr>
+
+  <tr>
+    <td><b>8</b></td>
+    <td><b>Profitability & Pricing Analysis</b></td>
+    <td>Financial Analytics</td>
+    <td>Analyze markup %, gross margin, discount strategy, and optimal pricing.</td>
+  </tr>
+
+  <tr>
+    <td><b>9</b></td>
+    <td><b>Customer Retention & Loyalty Metrics</b></td>
+    <td>CRM / CLV Analysis</td>
+    <td>Calculate churn rate, repeat purchase ratio, and customer lifetime value. Create retention dashboard.</td>
+  </tr>
+
+  <tr>
+    <td><b>10</b></td>
+    <td><b>Executive Retail Performance Report</b></td>
+    <td>End-to-End Case Study + Storytelling</td>
+    <td>Combine insights from all areas into a professional report & dashboard for management decision-making.</td>
+  </tr>
+</table>
+
+<br>
+
+<p><b>Why This Matters</b></p>
+
+<ul>
+  <li> Data Cleaning & Validation</li>
+  <li> Customer Segmentation & CLV</li>
+  <li> Financial & Pricing Analytics</li>
+  <li> Predictive Modeling & Forecasting</li>
+  <li> Data Visualization & Storytelling</li>
+</ul>
+
+</div>
+
+---
+
+<h2 align="center">Certifications</h2>
+
 
 <div align="left">
 
@@ -156,14 +270,14 @@ Learning & Expanding
 
 ---
 
-##  GitHub Stats
+
+<h2 align="center">GitHub Status</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saad-Attia&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saad-Attia&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saad-Attia&theme=dark&hide_border=true" height="150" alt="GitHub Streak Stats" />
-
 </div>
 
-![Snake animation](https://github.com/Saad-learning/Saad-learning/blob/output/snake-dark.svg)
+![Snake animation](https://github.com/Saad-Attia/Saad-Attia/blob/output/snake-dark.svg)
+
 
