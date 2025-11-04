@@ -144,6 +144,12 @@ Learning & Expanding
 <img src="https://img.shields.io/badge/View%20Certificate-0A66C2?style=flat&logo=linkedin&logoColor=white" height="25" />
 </a>
 
+<br><br>
+
+ <b>Retail Sales Management</b> — LinkedIn Learning  
+<a href="https://www.linkedin.com/learning/certificates/d8b8ae973385d6accb6adb17300279dd98dbd1b90448a9e2417fa3708a36e0b8?trk=share_certificate" target="_blank">
+<img src="https://img.shields.io/badge/View%20Certificate-0A66C2?style=flat&logo=linkedin&logoColor=white" height="25" />
+</a>
 </div>
 
 
@@ -153,9 +159,9 @@ Learning & Expanding
 ##  GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saad-learning&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saad-learning&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saad-learning&theme=dark&hide_border=true" height="150" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saad-Attia&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saad-Attia&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saad-Attia&theme=dark&hide_border=true" height="150" alt="GitHub Streak Stats" />
 
 </div>
 
