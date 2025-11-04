@@ -38,6 +38,8 @@ I’ve delivered end-to-end analytics projects across Retail, Healthcare, and Fi
 
 Passionate about uncovering what drives customer behavior and enabling data-driven decision-making that maximizes profitability and customer loyalty.  
 
+<div align="left">
+
 - **Currently working on:** Retail Sales Dashboards & KPI-driven Insights  
 - **Currently learning:** Salesforce CRM Analytics, Google BigQuery, and GA4 for Marketing Analytics  
 - **Open to:** Retail Analytics, Business Intelligence, and Data Visualization Roles  
@@ -50,7 +52,8 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
 
 <h2 align="center">Tech Stack</h2>
 
-
+<div align="left">
+  
 ### Programming & Data Languages
 <div align="left"> 
   <!-- SQL -->
