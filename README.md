@@ -267,6 +267,14 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
 <a href="https://www.linkedin.com/learning/certificates/d8b8ae973385d6accb6adb17300279dd98dbd1b90448a9e2417fa3708a36e0b8?trk=share_certificate" target="_blank">
 <img src="https://img.shields.io/badge/View%20Certificate-0A66C2?style=flat&logo=linkedin&logoColor=white" height="25" />
 </a>
+
+<br><br>
+
+<b>Sales Operations</b> — LinkedIn Learning  
+<a href="https://www.linkedin.com/learning/certificates/2811e6683b0413e0d14709e281fbb569f95869ab73bae697c5e419bd29153910?trk=share_certificate" target="_blank">
+<img src="https://img.shields.io/badge/View%20Certificate-0A66C2?style=flat&logo=linkedin&logoColor=white" height="25" />
+</a>
+
 </div>
 
 
