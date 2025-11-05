@@ -275,6 +275,15 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
 <img src="https://img.shields.io/badge/View%20Certificate-0A66C2?style=flat&logo=linkedin&logoColor=white" height="25" />
 </a>
 
+<br><br>
+
+
+<b>Sales Performance Measurement and Reporting</b> — LinkedIn Learning  
+<a href="https://www.linkedin.com/learning/certificates/d3cbe4189ba0db807f8c8d68adfbf5042699e34b61d2c502d982f806f7ed453b?trk=share_certificate" target="_blank">
+<img src="https://img.shields.io/badge/View%20Certificate-0A66C2?style=flat&logo=linkedin&logoColor=white" height="25" />
+</a>
+
+
 </div>
 
 
