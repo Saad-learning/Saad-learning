@@ -66,6 +66,13 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
   <img width="12" />   <!-- NumPy -->  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" /> 
   <img width="12" />   <!-- Matplotlib -->  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo" /> 
   <img width="12" />   <!-- Seaborn -->  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="seaborn logo" /> 
+<!-- Scikit-learn -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" /> 
+  <img width="12" />
+
+  <!-- SciPy -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" height="40" alt="scipy logo" /> 
+  <img width="12" />
   <img width="12" />   <!-- R -->  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r language logo" /> 
   <img width="12" />   <!-- dplyr -->  <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/dplyr.png" height="40" alt="dplyr logo" /> 
   <img width="12" />   <!-- tidyr -->  <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/tidyr.png" height="40" alt="tidyr logo" /> 
@@ -221,70 +228,72 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
 
 </div>
 
----
-
 <h2 align="center">Certifications</h2>
 
+<h3> Google Professional Certificates</h3>
 
 <div align="left">
 
- <b>Google Data Analytics </b> — Coursera  
+ <b>Google Data Analytics</b> — Coursera  
+*Developed core skills in data cleaning, analysis, and visualization using SQL, spreadsheets, and R to make data-driven decisions.*  
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/5LRBDKHO7TCS" target="_blank">
 <img src="https://img.shields.io/badge/View%20Certificate-4285F4?style=flat&logo=coursera&logoColor=white" height="25" />
 </a>
 
-<br><br>
+ <b>Google Advanced Data Analytics</b> — Coursera  
+*Gained hands-on experience with Python, statistics, and machine learning for predictive analytics and business insights.*  
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/GHMOBIBNL872" target="_blank">
+<img src="https://img.shields.io/badge/View%20Certificate-4285F4?style=flat&logo=coursera&logoColor=white" height="25" />
+</a>
 
- <b>Google Business Intelligence </b> — Coursera  
+ <b>Google Business Intelligence</b> — Coursera  
+*Learned to design data models, create dashboards, and define KPIs using SQL and Tableau to support strategic decision-making.*  
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/TLBUMS3QMUU7" target="_blank">
 <img src="https://img.shields.io/badge/View%20Certificate-4285F4?style=flat&logo=coursera&logoColor=white" height="25" />
 </a>
 
-<br><br>
-
  <b>Google AI Essentials</b> — Coursera  
+*Explored AI fundamentals, automation concepts, and practical use cases to enhance data-driven problem solving.*  
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/3HF4SMZCJOW9" target="_blank">
 <img src="https://img.shields.io/badge/View%20Certificate-4285F4?style=flat&logo=coursera&logoColor=white" height="25" />
 </a>
 
 <br><br>
 
+<h3> Retail & Sales Certificates</h3>
+
  <b>Retail Sales Foundations</b> — LinkedIn Learning  
+*Built a strong understanding of retail operations, sales strategies, and customer-focused selling techniques.*  
 <a href="https://www.linkedin.com/learning/certificates/946e339585f692c658934b039ae11853a7de26a92787a9482b91ed37435ffb7b?trk=share_certificate" target="_blank">
 <img src="https://img.shields.io/badge/View%20Certificate-0A66C2?style=flat&logo=linkedin&logoColor=white" height="25" />
 </a>
 
-<br><br>
-
  <b>Customer Retention</b> — LinkedIn Learning  
+*Learned strategies for customer loyalty, retention analysis, and post-sale relationship management.*  
 <a href="https://www.linkedin.com/learning/certificates/636f6e7c334ac2b13f636c2b98ac72bf142a454ca1670025e1372e3077c5dac6?trk=share_certificate" target="_blank">
 <img src="https://img.shields.io/badge/View%20Certificate-0A66C2?style=flat&logo=linkedin&logoColor=white" height="25" />
 </a>
 
-<br><br>
-
  <b>Retail Sales Management</b> — LinkedIn Learning  
+*Developed leadership skills in sales planning, performance tracking, and retail team management.*  
 <a href="https://www.linkedin.com/learning/certificates/d8b8ae973385d6accb6adb17300279dd98dbd1b90448a9e2417fa3708a36e0b8?trk=share_certificate" target="_blank">
 <img src="https://img.shields.io/badge/View%20Certificate-0A66C2?style=flat&logo=linkedin&logoColor=white" height="25" />
 </a>
 
-<br><br>
-
 <b>Sales Operations</b> — LinkedIn Learning  
+*Learned CRM data management, sales forecasting, and process optimization to improve sales efficiency.*  
 <a href="https://www.linkedin.com/learning/certificates/2811e6683b0413e0d14709e281fbb569f95869ab73bae697c5e419bd29153910?trk=share_certificate" target="_blank">
 <img src="https://img.shields.io/badge/View%20Certificate-0A66C2?style=flat&logo=linkedin&logoColor=white" height="25" />
 </a>
 
-<br><br>
-
-
 <b>Sales Performance Measurement and Reporting</b> — LinkedIn Learning  
+*Learned to analyze sales KPIs, measure team performance, and present actionable insights through reports and dashboards.*  
 <a href="https://www.linkedin.com/learning/certificates/d3cbe4189ba0db807f8c8d68adfbf5042699e34b61d2c502d982f806f7ed453b?trk=share_certificate" target="_blank">
 <img src="https://img.shields.io/badge/View%20Certificate-0A66C2?style=flat&logo=linkedin&logoColor=white" height="25" />
 </a>
 
-
 </div>
+
 
 
 
