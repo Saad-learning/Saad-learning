@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I'm Saad Attia</h1>
 <h3 align="center">Data & Business Intelligence Analyst</h3>
+<p align="center"><em>Specializing in Retail Sales Analytics & Data-Driven Growth Strategies</em></p>
 
 <div align="center">
 
