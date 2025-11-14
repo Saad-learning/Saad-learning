@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Saad Attia</h1>
 <h3 align="center">Data & Business Intelligence Analyst</h3>
-<p align="center"><em>Specializing in Retail Sales Analytics & Data-Driven Growth Strategies</em></p>
+<p align="center"><em>Specializing in Sales Analytics & Data-Driven Growth Strategies</em></p>
 
 <div align="center">
 
@@ -29,13 +29,13 @@
 <div align="center">
   
 
-I’m a Data & Business Intelligence Analyst specializing in Retail Sales Analytics, where data turns into strategy and every number tells a customer story.
+I’m a Data & Business Intelligence Analyst specializing in Sales Analytics, where data turns into strategy and every number tells a customer story.
 
 I help retail and consumer-focused businesses turn sales, customer, and product data into insights that drive growth, improve margins, and enhance retention.
 
 My expertise blends SQL, Python (Pandas), Power BI, Tableau, and Excel with deep business understanding of sales KPIs, customer segmentation, pricing analysis, and forecasting.
 
-I’ve delivered end-to-end analytics projects across Retail, Healthcare, and Finance — creating dynamic dashboards, predictive models, and reports that link analytics to business outcomes.
+I’ve delivered end-to-end analytics projects across Sales, Retail, Healthcare, and Finance — creating dynamic dashboards, predictive models, and reports that link analytics to business outcomes.
 
 Passionate about uncovering what drives customer behavior and enabling data-driven decision-making that maximizes profitability and customer loyalty.  
 
