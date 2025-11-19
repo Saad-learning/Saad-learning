@@ -1,6 +1,5 @@
 <h1 align="center">Hello, I'm Saad Attia</h1>
-<h3 align="center">Data & Business Intelligence Analyst</h3>
-<p align="center"><em>Specializing in Sales Analytics & Data-Driven Growth Strategies</em></p>
+<h3 align="center">Sales Analyst | Sales Forecasting & Strategy | Driving Revenue Growth through Data-Driven Insights | SQL • Python • Power BI • Tableau
 
 <div align="center">
 
@@ -29,7 +28,7 @@
 <div align="center">
   
 
-I’m a Data & Business Intelligence Analyst specializing in Sales Analytics, where data turns into strategy and every number tells a customer story.
+I am a Sales Analyst and Business Intelligence specialist, where data turns into sales strategy and every number tells a customer story.
 
 I help retail and consumer-focused businesses turn sales, customer, and product data into insights that drive growth, improve margins, and enhance retention.
 
@@ -43,7 +42,7 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
 
 - **Currently working on:** Retail Sales Dashboards & KPI-driven Insights  
 - **Currently learning:** Salesforce CRM Analytics, Google BigQuery, and GA4 for Marketing Analytics  
-- **Open to:** Retail Analytics, Business Intelligence, and Data Visualization Roles  
+- **Open to:** **Sales Analyst**, Retail Analytics, and Business Intelligence Roles  
 - **Reach me at:** saadattia.work@gmail.com  
 
 
@@ -153,7 +152,7 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
 
   <tr>
     <td><b>2</b></td>
-    <td><b>Retail Sales Performance Analysis</b></td>
+    <td><b>Sales Performance & Pipeline Analysis</b></td>
     <td>Descriptive Analytics</td>
     <td>Analyze total sales, profit, cost, and margin by product, category, and region. KPIs: Total Sales, Profit %, AOV.</td>
   </tr>
@@ -174,7 +173,7 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
 
   <tr>
     <td><b>5</b></td>
-    <td><b>Marketing Campaign Analysis</b></td>
+    <td><b>Sales/Promotion Uplift & ROI Analysis</b></td>
     <td>Marketing Analytics</td>
     <td>Evaluate promotion performance, discount impact on profit, and ROI per campaign.</td>
   </tr>
@@ -195,14 +194,14 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
 
   <tr>
     <td><b>8</b></td>
-    <td><b>Profitability & Pricing Analysis</b></td>
+    <td><b>Strategic Pricing & Discount Optimization</b></td>
     <td>Financial Analytics</td>
     <td>Analyze markup %, gross margin, discount strategy, and optimal pricing.</td>
   </tr>
 
   <tr>
     <td><b>9</b></td>
-    <td><b>Customer Retention & Loyalty Metrics</b></td>
+    <td><b>Customer Lifetime Value (CLV) & Retention Strategy</b></td>
     <td>CRM / CLV Analysis</td>
     <td>Calculate churn rate, repeat purchase ratio, and customer lifetime value. Create retention dashboard.</td>
   </tr>
