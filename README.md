@@ -78,7 +78,7 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
   <img width="12" />   <!-- tidyr -->  <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/tidyr.png" height="40" alt="tidyr logo" /> 
 </div>
 
-### Retail Data Analytics & Visualization
+###  Data Analytics & Visualization
 <div align="left"> 
   <!-- Pandas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" /> 
@@ -121,19 +121,18 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-analytics.svg" height="40" alt="google analytics 4 logo" /> 
 </div>
 
----
-<h2 align="center">Retail Sales Analytics Skills</h2>
+<h2 align="center">Sales, Marketing & Revenue Analytics Skills</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Cleaning-Excel%2C%20Python%2C%20SQL-blue" height="25" />
   <img src="https://img.shields.io/badge/Visualization-Power%20BI%2C%20Tableau-yellow" height="25" />
   <img src="https://img.shields.io/badge/Forecasting-ARIMA%2C%20Prophet-orange" height="25" />
-  <img src="https://img.shields.io/badge/Segmentation-RFM%2C%20CLV-green" height="25" />
+  <img src="https://img.shields.io/badge/Marketing%20Analytics-ROI%2C%20CAC%2C%20LTV-green" height="25" />
+  <img src="https://img.shields.io/badge/Financial%20Analysis-Margins%2C%20Pricing%2C%20Profit-red" height="25" />
+  <img src="https://img.shields.io/badge/Revenue%20Operations-CRM%2C%20Pipeline%2C%20MRR-purple" height="25" />
 </p>
 
-
 <div align="left">
-
 
 <table>
   <tr>
@@ -145,86 +144,104 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
 
   <tr>
     <td><b>1</b></td>
-    <td><b>Retail Data Cleaning & Quality Assurance</b></td>
+    <td><b>Sales Data Cleaning & Quality Assurance</b></td>
     <td>Data Cleaning (Excel, Python, SQL)</td>
-    <td>Clean messy retail data, handle missing values, validate prices, SKU codes, and dates. Create QA log table in SQL.</td>
+    <td>Clean CRM data, validate revenue entries, fix date formats, normalize categories, build SQL QA checks.</td>
   </tr>
 
   <tr>
     <td><b>2</b></td>
-    <td><b>Sales Performance & Pipeline Analysis</b></td>
+    <td><b>Sales Performance & Funnel Analysis</b></td>
     <td>Descriptive Analytics</td>
-    <td>Analyze total sales, profit, cost, and margin by product, category, and region. KPIs: Total Sales, Profit %, AOV.</td>
+    <td>Analyze conversion rates, win rate, AOV, churn, and sales cycle. Create funnel dashboards with KPIs.</td>
   </tr>
 
   <tr>
     <td><b>3</b></td>
-    <td><b>Customer Segmentation & Behavior Analysis</b></td>
+    <td><b>Customer Segmentation & Behavior Insights</b></td>
     <td>Customer Analytics</td>
-    <td>Segment customers by frequency, recency, and monetary value (RFM). Identify top-value customers.</td>
+    <td>Segment customers by deal size, industry, usage, churn risk, and CLV. Identify high-value cohorts.</td>
   </tr>
 
   <tr>
     <td><b>4</b></td>
-    <td><b>Product Performance & Inventory Optimization</b></td>
+    <td><b>Product & Service Performance Analysis</b></td>
     <td>Product Analytics</td>
-    <td>Identify top/bottom-performing products, seasonal trends, and inventory turnover. Recommend stock adjustments.</td>
+    <td>Assess product adoption, revenue contribution, cost-to-serve, and lifecycle trends.</td>
   </tr>
 
   <tr>
     <td><b>5</b></td>
-    <td><b>Sales/Promotion Uplift & ROI Analysis</b></td>
+    <td><b>Marketing Campaign Impact & ROI Analysis</b></td>
     <td>Marketing Analytics</td>
-    <td>Evaluate promotion performance, discount impact on profit, and ROI per campaign.</td>
+    <td>Analyze CAC, ROAS, lead quality, cost-per-acquisition, and multi-channel marketing ROI.</td>
   </tr>
 
   <tr>
     <td><b>6</b></td>
-    <td><b>Store/Regional Performance Dashboard</b></td>
-    <td>Power BI / Tableau Visualization</td>
-    <td>Build a regional sales & profit dashboard with KPIs, filters, and interactive visuals.</td>
+    <td><b>CRM & Sales Operations Analytics</b></td>
+    <td>Sales Operations / RevOps</td>
+    <td>Build reports for pipeline health, lead scoring, rep performance, deal velocity, and stage conversion.</td>
   </tr>
 
   <tr>
     <td><b>7</b></td>
-    <td><b>Sales Forecasting & Trend Analysis</b></td>
-    <td>Predictive Analytics (Python, SQL)</td>
-    <td>Forecast future sales using time-series models (ARIMA, Prophet). Identify growth trends.</td>
+    <td><b>Revenue Intelligence (MRR, ARR, NRR, Churn)</b></td>
+    <td>Revenue Analytics</td>
+    <td>Model subscription revenue, churn, expansion, contraction, and Net Revenue Retention.</td>
   </tr>
 
   <tr>
     <td><b>8</b></td>
-    <td><b>Strategic Pricing & Discount Optimization</b></td>
-    <td>Financial Analytics</td>
-    <td>Analyze markup %, gross margin, discount strategy, and optimal pricing.</td>
+    <td><b>Sales Forecasting & Predictive Modeling</b></td>
+    <td>Predictive Analytics (Python, SQL)</td>
+    <td>Use ARIMA/Prophet + pipeline-weighted forecasting to project revenue, churn probability, and deal closure.</td>
   </tr>
 
   <tr>
     <td><b>9</b></td>
-    <td><b>Customer Lifetime Value (CLV) & Retention Strategy</b></td>
-    <td>CRM / CLV Analysis</td>
-    <td>Calculate churn rate, repeat purchase ratio, and customer lifetime value. Create retention dashboard.</td>
+    <td><b>A/B Testing & Experimentation</b></td>
+    <td>Statistical Testing</td>
+    <td>Design experiments, calculate uplift, evaluate statistical significance, run multivariate tests.</td>
   </tr>
 
   <tr>
     <td><b>10</b></td>
-    <td><b>Executive Retail Performance Report</b></td>
+    <td><b>Pricing Strategy & Profitability Modeling</b></td>
+    <td>Financial Analytics</td>
+    <td>Analyze margin %, discount impact, contribution margin, elasticity, and optimal pricing strategies.</td>
+  </tr>
+
+  <tr>
+    <td><b>11</b></td>
+    <td><b>Go-To-Market (GTM) Strategy & Business Insights</b></td>
+    <td>Strategic Analytics</td>
+    <td>Perform TAM/SAM/SOM sizing, competitive analysis, GTM performance tracking, and executive insights.</td>
+  </tr>
+
+  <tr>
+    <td><b>12</b></td>
+    <td><b>Executive Sales & Marketing Performance Report</b></td>
     <td>End-to-End Case Study + Storytelling</td>
-    <td>Combine insights from all areas into a professional report & dashboard for management decision-making.</td>
+    <td>Combine sales, marketing, revenue, and financial insights into leadership-ready dashboards & reports.</td>
   </tr>
 </table>
 
 <br>
 
-<p><b>Why This Matters</b></p>
+<p><b>Key Analytics Domains</b></p>
 
 <ul>
-  <li> Data Cleaning & Validation</li>
-  <li> Customer Segmentation & CLV</li>
-  <li> Financial & Pricing Analytics</li>
-  <li> Predictive Modeling & Forecasting</li>
-  <li> Data Visualization & Storytelling</li>
+  <li>Sales Funnel Metrics: Win Rate, Conversion %, Cycle Time, AOV, Churn</li>
+  <li>Marketing Metrics: CAC, ROAS, MQL→SQL→Closed-Won Pipeline</li>
+  <li>Financial Metrics: Gross Margin, Contribution Margin, Discount Impact</li>
+  <li>Revenue Metrics: MRR, ARR, NRR, Expansion, Contraction</li>
+  <li>Predictive Modeling: Forecasting, Churn Modeling, Lead Scoring</li>
+  <li>Experimentation: A/B Testing, Uplift Analysis, Significance Testing</li>
+  <li>GTM & Strategy: Market Sizing, Competitive Intelligence, Pricing Strategy</li>
+  <li>Data Visualization & Executive Storytelling (Power BI / Tableau)</li>
 </ul>
+
 
 </div>
 
